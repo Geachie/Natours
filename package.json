@@ -1,17 +1,10 @@
 {
   "name": "natours",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "landing page for natours",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
-=======
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 524e90ffa903f74f756822857b4a9d1ab853f9c4
   },
   "repository": {
     "type": "git",
@@ -22,12 +15,8 @@
   "bugs": {
     "url": "https://github.com/Geachie/Natours/issues"
   },
-<<<<<<< HEAD
   "homepage": "https://github.com/Geachie/Natours#readme",
   "devDependencies": {
     "node-sass": "^7.0.1"
   }
-=======
-  "homepage": "https://github.com/Geachie/Natours#readme"
->>>>>>> 524e90ffa903f74f756822857b4a9d1ab853f9c4
 }
