@@ -17,11 +17,6 @@ html {
   font-size: 62.5%; }
 
 body {
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
-  line-height: 1.7;
-  color: #777;
-  padding: 3.0rem;
   box-sizing: border-box; }
 
 /* Animation for .heading-primary-main */
@@ -54,6 +49,13 @@ body {
   100% {
     opacity: 1;
     translate: 0; } }
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777;
+  padding: 3.0rem; }
 
 .heading-primary {
   color: #fff;
